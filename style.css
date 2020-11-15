@@ -29,7 +29,11 @@ img {
   padding: 100px;
   background-color: #f1f1f1;
 }
-
+ul.nav {
+  float: left;
+  width: 100%;
+  clear: left;
+}
 .nav-link {
   color: gray;
   font-size: 20px;
@@ -58,9 +62,16 @@ h4.cadetblue {
 #smallfig {
   width: 30%;
 }
-/* .nav-link {color:white;} */
+nav.navbar {
+  background-color: white;
+}
+@media (max-width: 768px) {
+  #changecolor {
+    background-color: cadetblue;
+  }
+}
 
-/* @media (max-width: 600px) {
+/* {
     <div class="fixed-top">
   <div class="collapse" id="navbarToggleExternalContent">
     <div class="bg-dark p-4">
