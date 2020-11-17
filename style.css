@@ -62,6 +62,9 @@ h4.cadetblue {
 #smallfig {
   width: 30%;
 }
+#hide {
+  color: white;
+}
 nav.navbar {
   background-color: white;
 }
