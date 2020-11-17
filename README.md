@@ -22,7 +22,8 @@ A "Comparisons" page that:
 Contains all of the visualizations on the same page so we can easily visually compare them.
 Uses a Bootstrap grid for the visualizations.
 
-----------------------------------------------------------------------
+#----------------------------------------------------------------------
 Try finding the hidden webpage to know about author's daytime work :) |
-----------------------------------------------------------------------
+#----------------------------------------------------------------------
+
 
